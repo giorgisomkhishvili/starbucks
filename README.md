@@ -1,2 +1,2 @@
 # starbucks
-starbucks landing page
+starbucks
